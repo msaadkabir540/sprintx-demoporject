@@ -1,0 +1,11 @@
+.colorpickermain {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: rgb(235 235 235);
+    align-items: center;
+    min-height: 60px;
+    height: 60px;
+    border-radius: 5px;
+    font-size: 20px;
+}

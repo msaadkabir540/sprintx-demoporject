@@ -1,0 +1,35 @@
+.tablemain {
+  overflow-x: scroll;
+  width: 100%;
+  max-width: 1900px;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0px 2em;
+  table-layout: auto;
+}
+.innerTableClass{
+  width: 1920px;
+}
+
+
+thead tr th{
+  text-align: center;
+  font-weight: bold;
+  font-size: 17px;
+  padding: 0.5em 0.5em;
+}
+
+tbody tr {
+  
+  background-color: rgb(224, 224, 224);
+}
+
+tbody tr td {
+  text-align: center;
+    font-size: 17px;
+    font-weight: 400;
+    padding: 0.9em 0.5em;
+}
+
