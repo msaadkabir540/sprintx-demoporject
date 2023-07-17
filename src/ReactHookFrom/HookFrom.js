@@ -18,10 +18,10 @@ const HookFrom = () => {
   const { register, control, handleSubmit, formState, reset } = form;
   const {
     errors,
-    isDirty,
-    isValid,
-    isSubmitting,
-    isSubmitted,
+    // isDirty,
+    // isValid,
+    // isSubmitting,
+    // isSubmitted,
     isSubmitSuccessful,
   } = formState;
 
